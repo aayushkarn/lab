@@ -442,7 +442,3 @@ MENU
 ```
 
 ### Ongoing Lab 5, 6 and 7 
-=======
-# LAB 1, 2 AND 3<br>
-## ADDED Circular Queue
->>>>>>> 936b74dce9cadc57d196faa43507f40e8928a299
