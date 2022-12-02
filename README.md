@@ -6,27 +6,27 @@
 ## Outputs
 
 #### Lab 1 [STACK]
-- [array implementation of stack (1_1.c)](#1.1)
-- [convert infix expression to postfix expression (1_2.c)](#1.2)
-- [evaluate postfix expression (1_3.c)](#1.3)
+- [array implementation of stack (1_1.c)](#11)
+- [convert infix expression to postfix expression (1_2.c)](#12)
+- [evaluate postfix expression (1_3.c)](#13)
 
 #### Lab 2 [RECURSION]
-- [find the factorial of a given number (2_1.c)](#2.1)
-- [find the sum of n natural numbers (2_2.c)](#2.2)
-- [generate Fibonacci sequence (2_3.c)](#2.3)
-- [find the GCD of two numbers (2_4.c)](#2.4)
-- [perform the multiplication of two natural numbers (2_5.c)](#2.5)
-- [perform ab where a and b are natural numbers (2_6.c)](2.6)
-- [implement Tower Of Hanoi (2_7.c)](#2.7)
+- [find the factorial of a given number (2_1.c)](#21)
+- [find the sum of n natural numbers (2_2.c)](#22)
+- [generate Fibonacci sequence (2_3.c)](#23)
+- [find the GCD of two numbers (2_4.c)](#24)
+- [perform the multiplication of two natural numbers (2_5.c)](#25)
+- [perform ab where a and b are natural numbers (2_6.c)](26)
+- [implement Tower Of Hanoi (2_7.c)](#27)
 
 #### Lab 3 [QUEUE]
-- [implement linear queue (3_1.c)](#3.1)
-- [implement circular queue(3_2.c)](#3.2)
+- [implement linear queue (3_1.c)](#31)
+- [implement circular queue(3_2.c)](#32)
 
 #### Lab 4 [LINKED LIST]
-- [ implement linear linked list and doubly linked list to perform the following task (4_1a.c & 4_1b.c)](#4.1)
-- [implement stack using linked list (4_2.c)](#4.2)
-- [implement queue using linked list (4_3.c)](#4.3)
+- [ implement linear linked list and doubly linked list to perform the following task (4_1a.c & 4_1b.c)](#41)
+- [implement stack using linked list (4_2.c)](#42)
+- [implement queue using linked list (4_3.c)](#43)
 ## Lab 1 [Stack]
 ### 1.1
 WAP to perform array implementation of stack
