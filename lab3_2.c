@@ -68,6 +68,7 @@ void display(struct queue* Q){
 		}
 		printf("%d->",Q->data[i]);
 	}
+	printf("\n");
 }
 
 int main(){
