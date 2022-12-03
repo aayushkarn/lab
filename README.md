@@ -30,7 +30,7 @@
 - [perform binary search using recursion (6_1.c)](#61)
 
 #### Lab 7 [TREE]
-- [implement binary search tree (BST)](#71)
+- [implement binary search tree (BST) (7_1.c)](#71)
 
 ## Lab 1 [Stack]
 ### 1.1
