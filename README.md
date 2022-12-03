@@ -29,7 +29,7 @@
 - [implement queue using linked list (4_3.c)](#43)
 
 #### Lab 5 [SORTING ALGORITHM]
-- [WAP to implement merge sort and quick sort ](#51)
+- [WAP to implement merge sort and quick sort (5_1a.c & 5_1b.c) ](#51)
 
 ## Lab 1 [Stack]
 ### 1.1
@@ -459,5 +459,19 @@ Enter Element 17
 Enter Element 40
 8 | 12 | 17 | 25 | 31 | 32 | 40 | 
 ```
-
+#### Quick Sort
+```bash
+Enter Size of array 9
+Enter Element 40
+Enter Element 20
+Enter Element 10
+Enter Element 30
+Enter Element 60
+Enter Element 50
+Enter Element 7
+Enter Element 80
+Enter Element 100
+40 | 20 | 10 | 30 | 60 | 50 | 7 | 80 | 100 | 
+7 | 10 | 20 | 30 | 40 | 50 | 60 | 80 | 100 | 
+```
 ### Ongoing Lab 5(Quick Sort), 6 and 7 
