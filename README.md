@@ -24,7 +24,7 @@
 - [implement circular queue(3_2.c)](#32)
 
 #### Lab 4 [LINKED LIST]
-- [ implement linear linked list and doubly linked list to perform the following task (4_1a.c & 4_1b.c)](#41)
+- [ implement linear linked list and doubly linked list to perform the following task (4_1a.c & 4_1b.c)](#41-minor-bugs)
 - [implement stack using linked list (4_2.c)](#42)
 - [implement queue using linked list (4_3.c)](#43)
 ## Lab 1 [Stack]
