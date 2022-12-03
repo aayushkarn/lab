@@ -27,6 +27,10 @@
 - [ implement linear linked list and doubly linked list to perform the following task (4_1a.c & 4_1b.c)](#41-minor-bugs)
 - [implement stack using linked list (4_2.c)](#42)
 - [implement queue using linked list (4_3.c)](#43)
+
+#### Lab 5 [SORTING ALGORITHM]
+- [WAP to implement merge sort and quick sort ](#51)
+
 ## Lab 1 [Stack]
 ### 1.1
 WAP to perform array implementation of stack
@@ -440,5 +444,20 @@ MENU
 4.Exit
 4
 ```
+## Lab 5 [SORTING ALGORITHM]
+### 5.1
+WAP to implement merge sort and quick sort
+#### Merge Sort 
+```bash
+Enter Size of array 7
+Enter Element 12
+Enter Element 31
+Enter Element 25
+Enter Element 8
+Enter Element 32
+Enter Element 17
+Enter Element 40
+8 | 12 | 17 | 25 | 31 | 32 | 40 | 
+```
 
-### Ongoing Lab 5, 6 and 7 
+### Ongoing Lab 5(Quick Sort), 6 and 7 
