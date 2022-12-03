@@ -31,8 +31,11 @@
 #### Lab 5 [SORTING ALGORITHM]
 - [implement merge sort and quick sort (5_1a.c & 5_1b.c) ](#51)
 
-### Lab 6 [SEARCHING ALGORITHM]
+#### Lab 6 [SEARCHING ALGORITHM]
 - [perform binary search using recursion (6_1.c)](#61)
+
+#### Lab 7 [TREE]
+- [implement binary search tree (BST)](#71)
 
 ## Lab 1 [Stack]
 ### 1.1
@@ -477,7 +480,7 @@ Enter Element 100
 40 | 20 | 10 | 30 | 60 | 50 | 7 | 80 | 100 | 
 7 | 10 | 20 | 30 | 40 | 50 | 60 | 80 | 100 | 
 ```
-## LAB 6 [SEARCHING ALGORITHM]
+## Lab 6 [SEARCHING ALGORITHM]
 ### 6.1
 WAP to perform binary search using recursion
 ```bash
@@ -489,4 +492,16 @@ Enter Key to search 3
 3 at index 2
 ```
 
-### Ongoing 7 
+## Lab 7 [Tree]
+### 7.1
+WAP to implement binary search tree (BST)
+```bash
+Preorder Traversal
+50 30 20 40 70 60 80 
+Inorder Traversal
+20 30 40 50 60 70 80 
+Postorder Traversal
+20 40 30 60 80 70 50 
+Search element 80
+Found
+```
