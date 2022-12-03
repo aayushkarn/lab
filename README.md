@@ -1,9 +1,4 @@
-# Lab 1, 2, 3 and 4
-
-
-
-
-## Outputs
+# Outputs (Lab 1 to 7)
 
 #### Lab 1 [STACK]
 - [array implementation of stack (1_1.c)](#11)
