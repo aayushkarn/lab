@@ -29,7 +29,10 @@
 - [implement queue using linked list (4_3.c)](#43)
 
 #### Lab 5 [SORTING ALGORITHM]
-- [WAP to implement merge sort and quick sort (5_1a.c & 5_1b.c) ](#51)
+- [implement merge sort and quick sort (5_1a.c & 5_1b.c) ](#51)
+
+### Lab 6 [SEARCHING ALGORITHM]
+- [perform binary search using recursion (6_1.c)](#61)
 
 ## Lab 1 [Stack]
 ### 1.1
@@ -155,7 +158,7 @@ move disk 2 from C to B
 Move disk 1 from A to B
 ```
 
-## Lab 3 [QUEUE]
+## Lab 3[QUEUE]
 ### 3.1
 WAP to implement linear queue
 ```bash
@@ -233,7 +236,7 @@ Queue:
 4
 ```
 
-## LAB 4 [LINKED LIST]
+## LAB 4[LINKED LIST]
 ### 4.1 (MINOR BUGS)
 WAP to implement linear linked list and doubly linked list to perform the following task:
 #### Linear Lined List
@@ -444,7 +447,7 @@ MENU
 4.Exit
 4
 ```
-## Lab 5 [SORTING ALGORITHM]
+## Lab 5[SORTING ALGORITHM]
 ### 5.1
 WAP to implement merge sort and quick sort
 #### Merge Sort 
@@ -474,4 +477,16 @@ Enter Element 100
 40 | 20 | 10 | 30 | 60 | 50 | 7 | 80 | 100 | 
 7 | 10 | 20 | 30 | 40 | 50 | 60 | 80 | 100 | 
 ```
-### Ongoing Lab 5(Quick Sort), 6 and 7 
+## LAB 6 [SEARCHING ALGORITHM]
+### 6.1
+WAP to perform binary search using recursion
+```bash
+Enter Size of array 3
+Enter Element 2
+Enter Element 1
+2Enter Element 3
+Enter Key to search 3
+3 at index 2
+```
+
+### Ongoing 7 
