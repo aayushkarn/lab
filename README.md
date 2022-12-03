@@ -16,7 +16,7 @@
 - [generate Fibonacci sequence (2_3.c)](#23)
 - [find the GCD of two numbers (2_4.c)](#24)
 - [perform the multiplication of two natural numbers (2_5.c)](#25)
-- [perform ab where a and b are natural numbers (2_6.c)](26)
+- [perform ab where a and b are natural numbers (2_6.c)](#26)
 - [implement Tower Of Hanoi (2_7.c)](#27)
 
 #### Lab 3 [QUEUE]
